@@ -41,7 +41,7 @@ _COLORS="true"
 
 _CUSTOM_DIFF="0"
 
-_DONATE_LEVEL="2"
+_DONATE_LEVEL="1"
 
 _LOG_FILE="null"
 
