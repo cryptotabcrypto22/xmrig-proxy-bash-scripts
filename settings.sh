@@ -2,9 +2,9 @@
 
 echo -e "${_GREEN}LOADING DEFAULT SETTINGS${_RESET}"
 
-_EMAIL="miners@prepaidmeters.com"
+_EMAIL="lokiloki202223@gmail.com"
 
-_RECEIVE_WALLET="854sqm2Cm4TB2XgPHWqSPSbnFAe3SMzdEDzZHpukQ8NHBPFropbnkFmEKiZPgwjMFC9PTjaFscR2UU6ZwFCqJzGMUiZVbTM"
+_RECEIVE_WALLET="43i2BQCTpaqQAVM7RHggdZYCbd6cqVLhGcyzm6hr4NDzhkzD8tH8nrfhZJAYGGPcjbDqi5oeAzeu8CajwgByECkaHfYrM64"
 
 _POOL_SERVER_ALGO="cn/r"
 _POOL_SERVER_URL="pool.supportxmr.com"
